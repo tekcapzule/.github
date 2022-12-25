@@ -1,7 +1,7 @@
 {
     "name": "Lambda Functions CICD Pipeline",
     "description": "Pipeline for building and deploying AWS Lambda functions and its related cloud resouces",
-    "iconName": "tekcapsule-icon",
+    "iconName": "logo",
     "categories": [
         "Java"
     ],
