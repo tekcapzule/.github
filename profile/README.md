@@ -1,4 +1,6 @@
-## Hi there 👋
+## It is hard to keep up with tech, but it doesn't have to be! With our crowd sourced unique tech capsules, we make sure you stay ahead in tech at any time. We get you the articles, videos, books, courses, jobs, news, products, events and anything in tech that you care about at your fingertip.
+
+
 
 <!--
 
