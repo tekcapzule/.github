@@ -1,6 +1,9 @@
-## It is hard to keep up with tech, but it doesn't have to be! With our crowd sourced unique tech capsules, we make sure you stay ahead in tech at any time. We get you the articles, videos, books, courses, jobs, news, products, events and anything in tech that you care about at your fingertip.
+## Learning TECH is never this EASY with our unique Capsules!!!
+
+It is hard to keep up with tech, but it doesn't have to be! With our crowd sourced unique tech capsules, we make sure you stay ahead in tech at any time. We get you the articles, videos, books, courses, jobs, news, products, events and anything in tech that you care about at your fingertip.
 
 
+![tekCapsule_Banner](https://user-images.githubusercontent.com/9839481/213190718-a9c03896-cfef-44fa-9328-d38eac86de71.svg)
 
 <!--
 
