@@ -1,6 +1,6 @@
-## Learning TECH is never this EASY with our unique Capsules!!!
+## Your Trusted AI Learning Partner
 
-It is hard to keep up with tech, but it doesn't have to be! With our crowd sourced unique tech capsules, we make sure you stay ahead in tech at any time. We get you the articles, videos, books, courses, jobs, news, products, events and anything in tech that you care about at your fingertip.
+Explore a world of possibilities in artificial intelligence through our comprehensive collection of articles, weekly digests, captivating videos, cutting-edge courses, quarterly insights and an exclusive marketplace for AI enthusiasts. Gain invaluable insights from industry experts through AI powered mentoring sessions, and stay ahead of the curve in this rapidly evolving field. Join our AI learning platform today and embark on an exciting journey towards becoming an AI champion!
 
 ![github](https://github.com/tekcapsule/.github/assets/9839481/99aa09b0-3c7a-403d-a0ac-412e98363ab7)
 
