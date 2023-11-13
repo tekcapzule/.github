@@ -2,8 +2,6 @@
 
 Explore a world of possibilities in artificial intelligence through our comprehensive collection of articles, weekly digests, captivating videos, cutting-edge courses, quarterly insights and an exclusive marketplace for AI enthusiasts. Gain invaluable insights from industry experts through AI powered mentoring sessions, and stay ahead of the curve in this rapidly evolving field. Join our AI learning platform today and embark on an exciting journey towards becoming an AI champion!
 
-![github (1)](https://github.com/tekcapsule/.github/assets/9839481/955c08c7-9a5e-427f-94fe-7ccd4f482b10)
-
 <!--
 
 **Here are some ideas to get you started:**
