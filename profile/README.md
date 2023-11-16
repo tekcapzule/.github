@@ -1,6 +1,6 @@
-## Your Trusted AI Learning Partner
+## Re-imagine Tech Learning!!!
 
-Explore a world of possibilities in artificial intelligence through our comprehensive collection of articles, weekly digests, captivating videos, cutting-edge courses, quarterly insights and an exclusive marketplace for AI enthusiasts. Gain invaluable insights from industry experts through AI powered mentoring sessions, and stay ahead of the curve in this rapidly evolving field. Join our AI learning platform today and embark on an exciting journey towards becoming an AI champion!
+Explore a world of possibilities in emerging technologies including Artificial Intelligence, Metaverse and Web 3.0 through our comprehensive collection of articles, weekly digests, captivating videos, in-depth courses, quarterly insights and an exclusive marketplace for tech enthusiasts.
 
 <!--
 
